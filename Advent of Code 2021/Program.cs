@@ -7,7 +7,7 @@ namespace Advent_of_Code_2021
     {
         static void Main(string[] args)
         {
-            Day d = new Day11();
+            Day d = new Day12();
             Console.WriteLine(d.Assignment1());
             Console.WriteLine(d.Assignment2());
         }
